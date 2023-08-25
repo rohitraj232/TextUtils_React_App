@@ -1,5 +1,5 @@
 # Deploy Page
-Click here to see live site:  https://rohitraj232.github.io/TextUtils_React_App/
+Click here to try it:  https://rohitraj232.github.io/TextUtils_React_App/
 
 
 
